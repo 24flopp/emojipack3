@@ -1,1 +1,87 @@
-{"name":"Example Repo","icon":"icon.png","path":"emotes","stickerPath":"stickers","emotes":[{"name":"imageone","type":"png"},{"name":"imagetwo","type":"gif"}],"stickers":[{"name":"sticker-one","type":"webp"},{"name":"sticker-two","type":"webp"}],"author":"Joe","description":"Example Description","keywords":"Nitroless, nitroless, iOS, macOS, Android, Windows, Emotes, Discord, discord, Nitro, nitro"}
+{
+  "name": "Example Repo",
+  "icon": "icon.png",
+  "path": "emotes",
+  "stickerPath": "stickers",
+  "emotes": [
+    {
+      "type": ".png",
+      "name": "floppabouttakillyou"
+    },
+    {
+      "name": "broke",
+      "type": ".png"
+    },
+    {
+      "name": "floppatroll",
+      "type": ".png"
+    },
+    {
+      "type": ".png",
+      "name": "markipliercrazy"
+    },
+    {
+      "type": ".gif",
+      "name": "floppavibin"
+    },
+    {
+      "name": "robloxnerd",
+      "type": ".png"
+    },
+    {
+      "name": "kekw",
+      "type": ".png"
+    },
+    {
+      "name": "moNOpoly",
+      "type": ".gif"
+    },
+    {
+      "type": ".png",
+      "name": "mrbean"
+    },
+    {
+      "name": "nobitches",
+      "type": ".png"
+    },
+    {
+      "type": ".png",
+      "name": "skull_"
+    },
+    {
+      "type": ".png",
+      "name": "deletethat"
+    },
+    {
+      "type": ".png",
+      "name": "walterwhite"
+    },
+    {
+      "name": "songlasses",
+      "type": ".png"
+    },
+    {
+      "type": ".png",
+      "name": "darules"
+    },
+    {
+      "name": "ayo",
+      "type": ".png"
+    },
+    {
+      "name": "kekl",
+      "type": ".png"
+    },
+    {
+      "type": ".gif",
+      "name": "caughtin4k"
+    },
+    {
+      "name": "laughatthisuser",
+      "type": ".png"
+    }
+  ],
+  "author": "24Flopp#0546",
+  "description": "floppa",
+  "keywords": "Nitroless, nitroless, iOS, macOS, Android, Windows, Emotes, Discord, discord, Nitro, nitro, floppa, caracal, caracal cat, no nitro, emojis, discord emojis, slack emojis, Slack, slack, emotes, discord emotes, slack emotes"
+}
