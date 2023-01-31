@@ -1,7 +1,7 @@
 //Add Name of your Repo here
 exports.name = "Floppa's Emojis";
 //Add Name and Type of Image Icon you want to use here (Must be PNG)
-exports.icon = 'icon.png';
+exports.icon = 'me.png';
 //Add the folder name where all your emotes are saved
 exports.pathName = 'emotes';
 //Add your name here, or remove the line if you don't need your name displayed under the repo's title in our clients
