@@ -5,23 +5,23 @@
   "stickerPath": "stickers",
   "emotes": [
     {
-      "type": ".png",
+      "type": "png",
       "name": "floppabouttakillyou"
     },
     {
       "name": "broke",
-      "type": ".png"
+      "type": "png"
     },
     {
       "name": "floppatroll",
-      "type": ".png"
+      "type": "png"
     },
     {
-      "type": ".png",
+      "type": "png",
       "name": "markipliercrazy"
     },
     {
-      "type": ".gif",
+      "type": "gif",
       "name": "floppavibin"
     },
     {
@@ -30,55 +30,55 @@
     },
     {
       "name": "kekw",
-      "type": ".png"
+      "type": "png"
     },
     {
       "name": "moNOpoly",
-      "type": ".gif"
+      "type": "gif"
     },
     {
-      "type": ".png",
+      "type": "png",
       "name": "mrbean"
     },
     {
       "name": "nobitches",
-      "type": ".png"
+      "type": "png"
     },
     {
-      "type": ".png",
+      "type": "png",
       "name": "skull_"
     },
     {
-      "type": ".png",
+      "type": "png",
       "name": "deletethat"
     },
     {
-      "type": ".png",
+      "type": "png",
       "name": "walterwhite"
     },
     {
       "name": "songlasses",
-      "type": ".png"
+      "type": "png"
     },
     {
-      "type": ".png",
+      "type": "png",
       "name": "darules"
     },
     {
       "name": "ayo",
-      "type": ".png"
+      "type": "png"
     },
     {
       "name": "kekl",
-      "type": ".png"
+      "type": "png"
     },
     {
-      "type": ".gif",
+      "type": "gif",
       "name": "caughtin4k"
     },
     {
       "name": "laughatthisuser",
-      "type": ".png"
+      "type": "png"
     }
   ],
   "author": "24Flopp#0546",
